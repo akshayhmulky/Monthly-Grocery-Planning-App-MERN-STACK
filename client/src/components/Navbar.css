@@ -1,0 +1,12 @@
+.navbar{
+    background-color: #394050;
+    padding: 2px 0 2px 0;
+    text-align: center;
+  }
+  
+  .navtext{
+    font-size: 2rem;
+    color: rgb(248, 243, 243);
+    letter-spacing: 0.1rem;  
+  }
+  

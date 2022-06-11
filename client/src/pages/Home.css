@@ -1,0 +1,19 @@
+.home_container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    /* min-width: 450px; */
+    
+}
+
+
+.title_month{
+    font-size: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    letter-spacing: 0.1rem;
+}
+ 
+

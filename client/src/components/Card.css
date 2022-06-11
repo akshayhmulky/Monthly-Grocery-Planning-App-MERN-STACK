@@ -1,0 +1,15 @@
+.cardContainer input{
+    box-sizing: border-box;  /* important orelse input will move out of div when given padding */
+    width: 100%;
+    height: 35px;
+    padding-left: 10px;
+    font-size: large;
+    border: none;
+    box-shadow: 0 1px 1px;
+}
+
+.cardContainer{
+    background-color: #E8E8E8;
+    width: 350px;
+    margin: 0 auto;
+}

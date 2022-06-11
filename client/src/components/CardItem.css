@@ -1,0 +1,44 @@
+
+.card_item li {
+    list-style: none;
+    height: 40px;
+    background-color:#FFFFFF;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01rem;
+}
+
+.card_item{
+    padding-bottom: 3px;
+}
+
+.list_style{
+    display: flex;
+    justify-content: space-between;
+}
+
+.list_button{
+    display: flex;
+    background-color: #FFFFFF;
+}
+
+.list_button button{
+    padding: 2px 8px;
+    margin-left: 10px;
+    font-weight: bold;
+    background-color: #FFFFFF;
+    border:1px solid;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.list_button button:hover{
+    background-color: aliceblue;
+}
+
+.strikme{
+    text-decoration: line-through;
+}
